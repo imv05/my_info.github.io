@@ -24,12 +24,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "imv"
-  pronouns         : "he"  
+  pronouns         :  #
   bio              : "所爱如月色，触手而不得"
   location         : "北京"
   employer         : "北京大学"
   uri              : # URL
-  email            : "664280338@qq.com" 
+  email            : 664280338@qq.com
 
   # Academic websites
   academia         : # URL
@@ -53,7 +53,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
