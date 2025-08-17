@@ -29,7 +29,7 @@ author:
   location         : "北京"
   employer         : "北京大学"
   uri              : # URL
-  email            : 664280338@qq.com
+  email            : "664280338@qq.com"
 
   # Academic websites
   academia         : # URL
@@ -39,7 +39,7 @@ author:
   impactstory      : # URL
   # orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -78,6 +78,7 @@ author:
   youtube          : # Username
   zhihu            : # Username
   wechat           : "xyx65537"
+  qq               : "664280338"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
