@@ -9,56 +9,30 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Personal experience
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+2005.5.10-约四岁 at洛阳
+幼儿园-小学三年级 at兰州
+小学三年级-小学毕业 at西安理工大附小
+初中 at西安铁一中
+高中 at西安铁一中
+大学 at北京大学
   
-Skills
+Skills & Hobbies
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 跆拳道黑带
+  * 后因半月板磨损再没有练过  
+* 围棋业余5段
+* 书法业余三级
+  * 就是练过一点的程度
+* 各种球类运动都有所接触
+  * 大学之前很喜欢打篮球，曾经在班级赛出场过，不过因为手腕受伤导致发挥欠佳
+  * 足球高中的时候偶尔和同学玩一玩，纯粹新手水平
+  * 羽毛球新手水平，打羽毛球的契机是21年进数学竞赛省队备战国赛时，老师觉得足球篮球太容易受伤不让玩，而又想运动
+  * 台球经常和小伙伴一起玩，进球极其不稳定，属于不那么菜的彩笔水平
+* 游泳会蛙泳和自由泳，仰泳、蝶泳知道动作但不怎么会
+* 健身新手
+* 喜欢读小说、看电影，参见reading&film&anime
+* 喜欢玩游戏，参见gaming
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
