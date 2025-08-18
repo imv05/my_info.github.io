@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "机密档案" #"Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "IMV"
 description              : &description "personal description"
 url                      : https://imv05.github.io/my_info.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
